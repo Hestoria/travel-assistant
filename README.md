@@ -5,7 +5,6 @@ This project is our FYP
 # Notice
 Please create your own branch for your work   
 `Make sure the latest version will not crash the current version then push to master  `  
-
 `Everytime when you updated the master, please address pull request  `
 
 # Main functions
