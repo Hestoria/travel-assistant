@@ -3,17 +3,17 @@ This project is our FYP
 ### ADD OIL!!!
 
 # Notice
-Please create your own branch for your work   
+`Please create your own branch for your work`  
 `Make sure the latest version will not crash the current version then push to master  `  
 `Everytime when you updated the master, please address pull request  `
 
 # Main functions
 1.	Travel planning service  
-> 1.1.	Auto generate  
-> 1.2.	Self-customize planning  
-> 1.3.	Applying travel guide  
-> 1.4.	Plan editing function  
-> 1.5.	Activity recommendations  
+  1.1.	Auto generate  
+  1.2.	Self-customize planning  
+  1.3.	Applying travel guide  
+  1.4.	Plan editing function  
+  1.5.	Activity recommendations  
 2.	Adding new travel spot  
 3.	Travel guide  
 4.	Login system  
