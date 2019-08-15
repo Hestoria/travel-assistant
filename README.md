@@ -2,7 +2,9 @@
 This project is our FYP, add oil!!!
 
 # Notice
-Please create your own branch for your work! Make sure the latest version will not crash the current version then push to master! Everytime when you updated the master, please address pull request
+Please create your own branch for your work
+!! Make sure the latest version will not crash the current version then push to master
+!! Everytime when you updated the master, please address pull request
 
 # Main functions
 1.	Travel planning service
